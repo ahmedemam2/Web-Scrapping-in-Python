@@ -1,2 +1,2 @@
 # Web-Scrapping-in-Python
-WEb Scrapping Jumia Website with Python Language using BeautifulSoup
+Wwb Scrapping Jumia Website with Python Language using BeautifulSoup to fetch data on prices , company namy , etc..
